@@ -17,7 +17,7 @@ Here are some highlights of markdown syntax.
 * Bullet 3
 
 [This is a link](https://google.com)   
-[Rochester Regional Library Council](https://www.rrlc.org)
+[Rochester Regional Library Council](https://www.rrlc.org){:target="_blank"}
 
 Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
