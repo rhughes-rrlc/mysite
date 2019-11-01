@@ -16,7 +16,7 @@ Here are some highlights of markdown syntax.
 * Bullet 2
 * Bullet 3
 
-[This is a link](https://google.com) .  
+[This is a link](https://google.com)   
 [Rochester Regional Library Council](https://www.rrlc.org)
 
 Here is an image. Don't forget some alt text for better accessibility!
