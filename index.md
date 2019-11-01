@@ -1,4 +1,4 @@
-You can use markdown to add content to you webpage.
+You can use **markdown** to add *content* to you webpage.
 
 Here are some highlights of markdown syntax.
 
@@ -17,6 +17,7 @@ Here are some highlights of markdown syntax.
 * Bullet 3
 
 [This is a link](https://google.com)
+[Rochester Regional Library Council](https://www.rrlc.org)
 
 Here is an image. Don't forget some alt text for better accessibility!
 ![Image of GitHub's mascot Octocat](images/Octocat.png)
